@@ -10,7 +10,15 @@ $(function() {
   		slidesToShow: 4,
  	 	slidesToScroll: 1,
  	 	touchThreshold: 10,
- 		swipeToSlide: true
+ 		swipeToSlide: true,
+ 		responsive:[
+ 		{
+ 			breakpoint: 780,
+ 			settings: {
+ 				slidesToShow:3
+ 			}
+ 		}
+ 		]
 	});
 
 	$('.edit-displey-status').on('click',function(){
@@ -35,7 +43,7 @@ $(function() {
 	})
 
 	let scrollToNav = $('#js-nav').offset().top
-	let navHeight = $('#js-nav').innerHeight()
+	let navHeight = $('#js-nav').height()
 	$(document).on('scroll',function(){
 		let documentScroll = $(this).scrollTop()
 		let criticalScroll = scrollToNav+navHeight+50
