@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 16" width="9" height="16">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #aaaaaa } 
+	</style>
+	<g id="Cards">
+		<g id="Arrows">
+			<g id="Left">
+				<path id="Arrow Left Icon" class="shp0" d="M0.3 8.77L7.12 15.71C7.54 16.13 8.23 16.11 8.67 15.66C9.11 15.22 9.13 14.52 8.71 14.09L2.72 8L8.71 1.91C9.13 1.49 9.11 0.78 8.67 0.34C8.23 -0.11 7.54 -0.12 7.12 0.3L0.3 7.24C0.11 7.43 0.01 7.69 0 7.96C0 7.97 0 7.99 0 8C0 8.02 0 8.03 0 8.05C0.01 8.31 0.11 8.57 0.3 8.77Z" />
+			</g>
+		</g>
+	</g>
+</svg>

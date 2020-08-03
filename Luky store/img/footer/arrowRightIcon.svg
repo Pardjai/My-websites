@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 9 16" width="9" height="16">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #aaaaaa } 
+	</style>
+	<g id="Pagination">
+		<g id="Right">
+			<path id="Arrow Right Icon" class="shp0" d="M8.7 8.76L1.98 15.59C1.56 16 0.88 15.99 0.45 15.55C0.02 15.11 0 14.42 0.41 14L6.32 8.01L0.41 2.01C0 1.59 0.02 0.9 0.45 0.46C0.88 0.02 1.56 0 1.98 0.42L8.7 7.25C8.9 7.45 8.99 7.7 9 7.96C9 7.97 9 7.99 9 8.01C9 8.02 9 8.03 9 8.05C8.99 8.31 8.9 8.56 8.7 8.76Z" />
+		</g>
+	</g>
+</svg>

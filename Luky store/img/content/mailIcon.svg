@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 72" width="96" height="72">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f3f3f3 } 
+	</style>
+	<g id="Newsletter">
+		<path id="Mail Icon" class="shp0" d="M90 72L6 72C2.69 72 0 69.31 0 66L0 6C0 2.69 2.69 0 6 0L90 0C93.31 0 96 2.69 96 6L96 66C96 69.31 93.31 72 90 72ZM84 60L84 16.57L48 52.57L12 16.57L12 60L84 60ZM75.18 12L20.82 12L48 39.18L75.18 12Z" />
+	</g>
+</svg>

@@ -1,0 +1,203 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Luky store</title>
+	<link rel="stylesheet" href="css/style.css">
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+</head>
+<body>
+	<div class="wrapper">
+		<header class="page-item" id="js-header">
+			<img src="img/header/Header.png" alt="" class="header-img page-item">
+			<nav id="js-nav">
+					<div class="container header-nav">
+					<ul class="row nav_row">
+						<li class="item-ligo">
+							<a href="#">
+							<img src="img/content/Logo.png" alt="">
+							</a>
+						</li>
+						<li class="flex_size dropdown_have"><a href="#" class="color_white nav-block-text">MEN</a>
+							<ul class="dropdown dropdown-list">
+								<li class="nav__dropdown-item color_white"><a href="#" class="color_white">T-SHIRTS</a></li>
+								<li class="nav__dropdown-item color_white"><a href="#" class="color_white">TROUSERS</a></li>
+								<li class="nav__dropdown-item color_white"><a href="#" class="color_white">SHIRTS</a></li>
+							</ul>
+						</li>
+						<li class="flex_size dropdown_have"><a href="#" class="color_white nav-block-text">WOMEN</a>
+							<ul class="dropdown dropdown-list">
+								<li class="nav__dropdown-item color_white"><a href="#" class="color_white">T-SHIRTS</a></li>
+								<li class="nav__dropdown-item color_white"><a href="#" class="color_white">SHORTS</a></li>
+								<li class="nav__dropdown-item color_white"><a href="#" class="color_white">WAISTCOATS</a></li>
+							</ul>
+						</li>
+						<li class="flex_size"><a href="#" class="color_white nav-block-text" id="js-bestSallersButton">BEST SALLERS!</a></li>
+						<li class="flex_size"><a href="#" class="color_white nav-block-text">INFO</a></li>
+						<li class="flex_size"><a href="#" class="color_white nav-block-text">CONTACTS</a></li>
+						<li class="icon-button button-search" id="js-buttonSearchItem"><button class="nav-button nav__search-button_bg"></button></li>
+						<li class="nav__search-dropdown display_off" id="searchInputLi">
+							<form role="search"  class="dropdown-form">
+								<input type="search" class="dropdown-input display_off" id="dropdownInput" placeholder="Search does not work 😥" autocomplete="off">
+							</form>
+						
+						</li>
+						
+						<li class="icon-button"><a href="#" class="nav-button nav__shopping-cart-button_bg"></a></li>
+						<li class="icon-button"><a href="#" class="nav-button nav__profile-button_bg"></a></li>
+					</ul>
+					</div>
+			</nav>
+		</header>
+
+		<div class="body">
+			<div class="container">
+				<div class="header__slider page-item">
+					<div class="slider-item">
+						<picture>
+							<source srcset="img/content/slider-photo-01.webp" type="image/webp">
+							<img src="img/content/slider-photo-01.png" alt="">
+						</picture>
+					</div>
+					<div class="slider-item">
+						<picture>
+							<source srcset="img/content/slider-photo-02.webp" type="image/webp">
+							<img src="img/content/slider-photo-02.png" alt="">
+						</picture>
+					</div>
+					<div class="slider-item">
+						<picture>
+							<source srcset="img/content/slider-photo-03.webp" type="image/webp">
+							<img src="img/content/slider-photo-03.png" alt="">
+						</picture>
+					</div>
+				</div>
+				<div class="best-sallers page-item">
+					<div class="container">
+						<span class="best-sallers__title">Best Sallers</span>
+						<div class="best-sallers__slider">
+							<div class="best-sallers__slider-item">
+								<div class="best-saller__img band-sale slider-content">
+									<img data-lazy="img/content/slider-photo-05.png" alt="">
+									<a href="#" class="hover-img">.</a>
+								</div>
+								<span class="best-sallers__item-title slider-content">ISS</span>
+
+								<div class="best-sallers__info slider-content">
+									<span class="best-sallers__price old-price">$55<span class="sale">$70</span></span>
+									<button class="best-sallers__button edit-displey-status">Add to Cart <span class="cant-buy cant-buy_block display_none">Sorry, purchase is not possible</span></button>
+								</div>
+							</div>
+							<div class="best-sallers__slider-item ">
+								<div class="best-saller__img slider-content">
+									<img data-lazy="img/content/slider-photo-04.png" alt="">
+									<a href="#" class="hover-img">.</a>
+								</div>
+								<span class="best-sallers__item-title slider-content">The Millennium Falcon</span>
+								<div class="best-sallers__info slider-content">
+									<span class="best-sallers__price">$199<span class="sale"></span></span>
+									<button class="best-sallers__button edit-displey-status">Add to Cart<span class="cant-buy cant-buy_block display_none">Sorry, purchase is not possible</span></button>
+								</div>
+							</div>
+							<div class="best-sallers__slider-item">
+								<div class="best-saller__img band-hot slider-content">
+									<img data-lazy="img/content/slider-photo-06.png" alt="">
+									<a href="#" class="hover-img">.</a>
+								</div>
+								<span class="best-sallers__item-title slider-content">Razor Crest</span>
+								<div class="best-sallers__info slider-content">
+									<span class="best-sallers__price">$54<span class="sale block__display_none"></span></span>
+									<button class="best-sallers__button edit-displey-status">Add to Cart<span class="cant-buy cant-buy_block display_none">Sorry, purchase is not possible</span></button>
+								</div>
+							</div>
+							<div class="best-sallers__slider-item">
+								<div class="best-saller__img band-new slider-content">
+									<img data-lazy="img/content/slider-photo-07.png" alt="">
+									<a href="#" class="hover-img">.</a>
+								</div>
+								<span class="best-sallers__item-title slider-content">Iron Man</span>
+								<div class="best-sallers__info slider-content">
+									<span class="best-sallers__price">$87<span class="sale block__display_none"></span></span>
+									<button class="best-sallers__button edit-displey-status">Add to Cart<span class="cant-buy cant-buy_block display_none">Sorry, purchase is not possible</span></button>
+								</div>
+							</div>
+							<div class="best-sallers__slider-item">
+								<div class="best-saller__img slider-content">
+									<img data-lazy="img/content/slider-photo-08.png" alt="">
+									<a href="#" class="hover-img">.</a>
+								</div>
+								<span class="best-sallers__item-title slider-content">Hedwig</span>
+								<div class="best-sallers__info slider-content">
+									<span class="best-sallers__price">$37<span class="sale block__display_none"></span></span>
+									<button class="best-sallers__button edit-displey-status">Add to Cart<span class="cant-buy cant-buy_block display_none">Sorry, purchase is not possible</span></button>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<div class="row bottom-content_row page-item">
+					<div class="reviews bottom-content_row-item">
+						<div class="review">
+							<div class="review-text_block .text-block_review-item">
+								<span class="review-text review-block_margin-right">I wonder if I've been changed in the night. Let me think. Was I the same when I got up this morning? I almost think I can remember feeling a little different. But if I'm not the same, the next question is 'Who in the world am I?'</span>
+							</div>
+							<div class="review-author row review-author_flex">
+								<div class="review-img_arownd flex_center review-block_margin-right">
+									<img src="img/content/photoImg.png" alt="" class="review-img">
+								</div>
+								<div class="author-info_colum">
+									<span class="review-name review-name_margin">Jack Sparrow</span> <br/>
+									<span class="review-location">new york, USA</span>
+								</div>
+								<button class="all-reviews-button">See all reviews</button>
+							</div>
+						</div>
+					</div>
+					<div class="give-mail mail_row-item bottom-content_row-item">
+						<div class="sign-up sign-up_container">
+							<span class="sign-up-text">sign up</span>
+							<span class="sign-up-text">&</span>
+							<span class="sign-up-text">save 10%</span>
+						</div>
+						<span class="for-letter for-letter_margin-b">for our newsletter</span>
+						<form action="#" class="give-mail__form">
+							<input type="email" placeholder="Enter your email address" autocomplete="on">
+							<button class="give-mail__button">Sign Up</button>
+						</form>
+					</div>
+				</div>
+				<div class="row pagination_row page-item">
+					<div class="pagination">
+					<a href="#" class="prev pagination-arrow"><i class="fa fa-angle-left"></i>Previous</a>
+				   <a href="#" class="num active">1</a>
+				   <a href="#" class="num">2</a>
+				   <a href="#" class="num">3</a>
+				   <a href="#" class="num">4</a>
+				   <a href="#" class="num">5</a>
+				   <a href="#" class="next pagination-arrow">Next<i class="fa fa-angle-right"></i></a>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<footer>
+		<div class="footer-img footer_row_column">
+			<img src="img/footer/Logo.svg" alt="">
+			<span class="footer-title">Lucky Store</span>
+			<span class="footer-subtitle">E–commerce ui Kit</span>
+		</div>
+		<div class="created-by created-by_block row_colum_center">
+			<span>Design created by &nbsp<b> Sergey Azovskiy</b></span>
+			<span>Frontend by &nbsp<b>Ilya Kozionov</b></span>
+		</div>
+	</footer>
+	
+
+	<!---JS Section-->
+	<script src="js/jquery-3.5.1.min.js"></script>
+	<script src="js/slick.min.js"></script>
+	<script src="js/app.js"></script>
+</body>
+</html>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5 45" width="5" height="45">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { opacity: 0.302;fill: #ffffff } 
+	</style>
+	<g id="Header">
+		<g id="Free">
+			<path id="Line" class="shp0" d="M5 42.5C5 43.88 3.88 45 2.5 45C1.12 45 0 43.88 0 42.5C0 41.29 0.86 40.28 2 40.05L2 0L3 0L3 40.05C4.14 40.28 5 41.29 5 42.5Z" />
+		</g>
+	</g>
+</svg>
