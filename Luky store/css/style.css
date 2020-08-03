@@ -598,7 +598,7 @@ body .wrapper {
 
 /* Стрелка вправо */
 .best-sallers__slider .slick-arrow.slick-next {
-  background: #fff url("../img/content/arrowRightIcon.svg") 50% 50% no-repeat;
+  background: #fff url("../img/content/ArrowRightIcon.svg") 50% 50% no-repeat;
   right: 10px;
 }
 
