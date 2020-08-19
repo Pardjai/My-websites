@@ -480,7 +480,7 @@ h2 {
 }
 
 .our-process-img {
-  background: #fff url("img/content/ourProcess.png") 50% 50% no-repeat;
+  background: #fff url("img/content/ourProcess.webp") 50% 50% no-repeat;
   background-size: cover;
   height: 400px;
 }
@@ -624,7 +624,7 @@ h4 {
 }
 
 .buisness-card-img {
-  background: #fff url("img/content/busnessCard.png") 50% 50% no-repeat;
+  background: #fff url("img/content/busnessCard.webp") 50% 50% no-repeat;
 }
 
 .infographic-img {
@@ -639,7 +639,7 @@ h4 {
 }
 
 .what-think {
-  background: #fff url("img/content/testimonials.png") 50% 50% no-repeat;
+  background: #fff url("img/content/testimonials.webp") 50% 50% no-repeat;
   height: 330px;
   background-attachment: fixed;
   background-size: cover;
@@ -746,11 +746,11 @@ h4 {
 }
 
 .recenz__old-sclool-img {
-  background: #fff url("img/content/oldSchool.png") 50% 50% no-repeat;
+  background: #fff url("img/content/oldSchool.webp") 50% 50% no-repeat;
 }
 
 .recenz_retro-img {
-  background: #fff url("img/content/vintagePoster.png") 50% 50% no-repeat;
+  background: #fff url("img/content/vintagePoster.webp") 50% 50% no-repeat;
 }
 
 .full-width {
