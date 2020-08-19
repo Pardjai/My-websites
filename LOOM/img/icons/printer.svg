@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 56 54" width="56" height="54">
+	<defs>
+		<image width="56" height="54" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA2CAMAAAClUqpcAAAAAXNSR0IB2cksfwAAAVBQTFRFrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysmVu1hwAAAHB0Uk5TAFa9z8uWDzT9/9IVcO+AjfnTTgwQeR8NE+bslxwq4Ww5Cd3xMIpQ8jNu63Il8IvAm4PbZ0zfYEDzv2gKc382alL2t6yUzlE9+HgEyfyfW1fYGM3XI+jEca+ob8gs3GG7A1NeGgt2L8GyWG3nfaXkoCEdKhYAAAGDSURBVHic7ZZXU8JAEIBXEGEhCEhRsIKKiAUFiV1QURF7wd471v//phCk5e6SYxz1ge8ps3vfZLKZ212AMuo0Wjn1ugZQQG9AIkaTgiiguVGOxapoCmgjhZsUTQG1xDjVtDsknBQxZ7ryh5q/gy0Wd7EMFDFrFvC0tmVD7R2l9aOJ0Fl6ytMF4PVht1PfI9FLF/3Ylz8U6A9i0AQDaNUXsrTi5ERz4XlwCIchhCPFrEoRRjEMPozwi2NohSiK/OI44t+LE5MUbExxinyrJHwMcXqGcKvyzM4xRLXUxJoIYYzxi3GchwVc5BcTuAQiGpZ5vZUkrkJqDdc3Nv0cbOmSuG0H2NllXUIye/vZF6ciIbeZg/TBoZe/LD+N64haYcdxhJb64gRPaak4phkio6+Kpe2RLJ4ZoxWcC6rEC/l/u1QlXl2LFdzcqhKr/saqxbt7Wft/UCUSJs+jKtH1VDniNJl/WpxfFZ/xhTKPX9/wnSEGKKt1jg+GCBnSMi9t9Inyjf4T3mJZJoNB36oAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Service Section">
+		<g id="Print Design">
+			<use id="Layer 11" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>

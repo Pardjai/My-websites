@@ -1,0 +1,15 @@
+<svg width="8" height="13" xmlns="http://www.w3.org/2000/svg">
+ <style>tspan { white-space:pre }
+		.shp0 { fill: #656565 }</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="602" width="802" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g transform="rotate(-180 4.005000114440918,6.5) " id="Slider">
+   <path d="m6,0.01l-5.99,6.49l1.96,2.12l5.98,-6.49l-1.95,-2.12zm2,10.82l-5.99,-6.49l-2,2.16l5.99,6.49l2,-2.16z" class="shp0" id="&gt; copy 9"/>
+  </g>
+ </g>
+</svg>

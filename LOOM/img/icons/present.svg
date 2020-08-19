@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 48 55" width="48" height="55">
+	<defs>
+		<image width="48" height="55" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAA3CAMAAAB92TkNAAAAAXNSR0IB2cksfwAAAbZQTFRFrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKysrKys7syagwAAAJJ0Uk5TACKX5v/kjxVh9TVr/t9qOG3q7SUXi9LdsVABMvqzDCPn0AU367wTp9EGPPt6Ie7wfKzUZpDxuuUkTYLiYxHvTkOBz6nFAofoB8mD/X0aVB3sb7Wvks4c2t4NA5sJWPh0Owiq1kIw/Hf5tpNy21PIHjH0FJxIy3sEbkzytw6On9WYJ12ZYPPhpRBRuYkgVc1+3KZ7JeMrAAAB4ElEQVR4nO2V+18MURjG3+rbptptbcgarCjCRmGziNKGXCJZty12yS2sS0RuTS7rntt/7JzZsfpMpz7jZ/v88j7nPc93bufMjMhfVVRWUR2oEb9aUotWVZ3PfH2QUEN4aYTGZaXe8hVNK6OrLGN+9RrWxlRd18z6DW6vpdU558ZNJqCNzVscszVOe7G1bTsdnfU7guyMGYBqdrkuQVfxkLtJ7lFlby37DEA3+113oIdOXXvhoNPoI2UA+jl02LVHGDiqyjGixfFxIxA+waBrT8Y5JVIHYWc4dNp4SRIgOOzaM6RFznLOGZy/wMWMCRiJwuglx14mG7OS5LS/kqRjgaW8OgbXrmuXydJ7A9QjyiRuEmkx50WsW+PQNqTcbe7cJS/WvW64/2ChvNLDFEz0PZJh8mM8nnwC2adTi+RFpp6p3TCReA4v6FK7Il2xaFwr1t4DcWcP8TJsCLyatj1Ku3FmvDO2/fqNvOWf9E4KvPceZoYPuqh1+eiZyWMrIOS9yoBeaBG1Ep88M3YZ8A2MpzyKlIAmz0yjAxj0B5gvWz7rMlqYqy8loGFuO6eTX8WaLLRS8HMPs5D75rzDId/AbNGVgTJQBv57wPtd+q7Lj/nfpRLgV+4/fvBnyJ9+jYj8BohF4yUbNzKFAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Service Section">
+		<g id="Package Design">
+			<use id="Layer 13" href="#img1" x="0" y="0" />
+		</g>
+	</g>
+</svg>
