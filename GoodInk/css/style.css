@@ -408,13 +408,6 @@ mark, .read-more-link {
   position: absolute;
 }
 
-@media (min-width: 768px) {
-  .info-keys:before {
-    top: 0 !important;
-    margin-left: -2rem !important;
-  }
-}
-
 .aside-info .key-readers:before {
   background: rgba(0, 0, 0, 0) url("../img/icons/keyReaders.svg") 50% 50% no-repeat;
 }
@@ -423,6 +416,13 @@ mark, .read-more-link {
 }
 .aside-info .key-downloads:before {
   background: rgba(0, 0, 0, 0) url("../img/icons/keyDownloads.svg") 50% 50% no-repeat;
+}
+
+@media (min-width: 768px) {
+  .info-keys:before {
+    top: 0 !important;
+    margin-left: -2rem !important;
+  }
 }
 
 footer {
