@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 19" width="20" height="19">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #9d9d9d } 
+	</style>
+	<g id="Home">
+		<g id="Stats">
+			<g id="3">
+				<path id="download" class="shp0" d="M18.29 12.2L17.61 15.85L2.38 15.85L1.7 12.2L0 12.2L0 18L19.99 18L19.99 12.2L18.29 12.2ZM17.86 5.72L12.85 5.72L12.85 3.62L7.14 3.62L7.14 5.72L2.18 5.72L9.97 13.93L17.86 5.72ZM12.85 0L7.14 0L7.14 0.76L12.85 0.76L12.85 0ZM12.85 1.43L7.14 1.43L7.14 2.89L12.85 2.89L12.85 1.43Z" />
+			</g>
+		</g>
+	</g>
+</svg>

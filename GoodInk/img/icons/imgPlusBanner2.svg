@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 210" width="210" height="210">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #f26c4f } 
+	</style>
+	<g id="Home">
+		<g id="Side feature">
+			<path id="Banner" class="shp0" d="M67.14 -0.04L209.98 142.81L142.81 209.98L-0.04 67.14L67.14 -0.04Z" />
+		</g>
+	</g>
+</svg>

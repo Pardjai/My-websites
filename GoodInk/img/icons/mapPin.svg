@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 11 17" width="11" height="17">
+	<style>
+		tspan { white-space:pre }
+		.shp0 { fill: #8f8f8f } 
+	</style>
+	<g id="Home">
+		<g id="DD - 1 copy">
+			<path id="map pin" class="shp0" d="M2.27 5.35C2.27 3.48 3.71 1.95 5.5 1.95C7.29 1.95 8.74 3.48 8.74 5.35C8.74 7.23 7.29 8.75 5.5 8.75C3.71 8.75 2.27 7.23 2.27 5.35ZM0 5.78C0 7.2 1.64 10.2 1.64 10.2L5.5 17L9.14 10.2C9.14 10.2 11 7.18 11 5.78C11 2.59 8.54 0 5.5 0C2.46 0 0 2.59 0 5.78Z" />
+		</g>
+	</g>
+</svg>
