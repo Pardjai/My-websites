@@ -1,0 +1,120 @@
+@mixin contacts-before{
+	content: "";
+	display: inline-block;
+	position: absolute;
+	left: 0;
+	height: 100%;
+	width: 20px;
+	background-position: 50% 50%;
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+.page-footer {
+	padding: 10px;
+	background-color: #242221;
+	color: #fff;
+	font-size: 14px;
+}
+.page-footer .flex {
+	margin: 0 -20px;
+}
+.footer-title {
+	display: inline-block;
+	text-decoration: underline;
+}
+.flex {}
+.copyright {
+	flex: 0 1 40%;
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	margin: 0 -10px;
+	box-sizing: border-box;
+	padding: 0 20px;
+}
+.copyright-paragraph {
+	box-sizing: border-box;
+	flex: 0 1 50%;
+	padding: 0 10px;
+	margin-bottom: 20px;
+}
+
+.social {
+	flex: 0 1 160px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-content: flex-start;
+	padding: 0 20px;
+	margin: 0 auto;
+}
+.social-link {
+	display: inline-block;
+	box-sizing: border-box;
+	flex: 0 1 50px;
+	height: 50px;
+	background-color: #74776D;
+	background-repeat: no-repeat;
+	background-position: 50% 50%;
+	background-size: 50%;
+	margin-bottom: 20px;
+	border-radius: 5px;
+}
+.social-vk {
+	background-image: url("../../../img/icon-vk.svg");
+}
+.social-git {
+	background-image: url("../../../img/icon-github--white.svg");
+}
+.social-tw {
+	background-image: url("../../../img/icon-tw.svg");
+}
+.social-inst {
+	background-image: url("../../../img/icon-inst.svg");
+}
+.footer__list {
+	box-sizing: border-box;
+	padding: 0 20px;
+	flex: 0 1 33.333%;
+
+}
+.footer__nav {
+	box-sizing: border-box;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: flex-end;
+	margin: 0 -10px 10px -10px;
+}
+.footer__nav-item {
+	box-sizing: border-box;
+	display: inline-block;
+	color: inherit;
+	text-decoration: none;
+	padding: 0 10px;
+	margin-bottom: 20px;
+}
+
+.footer__contacts {
+	display: flex;
+	flex-direction: column;
+	align-items: flex-end;
+}
+.footer__contact {
+	padding-left: 30px;
+	display: inline-block;
+	color: inherit;
+	margin-bottom: 20px;
+	text-decoration: none;
+	position: relative;
+}
+
+.footer-phone:before{
+	@include contacts-before;
+	background-image: url("../../../img/icon-phone-footer.svg");
+}
+
+.footer-email:before{
+	@include contacts-before;
+	background-image: url("../../../img/icon-email-footer.svg");
+}
